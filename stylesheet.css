@@ -1,7 +1,7 @@
 
 #body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #353535
+    background-color: #1a1a1a;
 }
 .support{
     background: #222222;
@@ -287,3 +287,17 @@ footer{
     width: 100%;
     /* The width is the width of the web page */
   }
+.item {
+    background: #ce8888;
+    flex-basis: 100px;
+    height: 100px;
+    margin: 5px;
+  }
+.sessionpic{
+    height: 10rem;
+}
+.sessionbox{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+}
